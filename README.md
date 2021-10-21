@@ -1,8 +1,9 @@
 # UnityPractice_01
 Udemy course practice project.
 
-play online
-https://sharemygame.com/@JohnPantsWork/rick-s-project-boost-from-the-unity-3d-course
+簡單的移動方塊，閃躲碰撞物抵達終點的遊戲
+透過鍵盤控制
 
-火箭降落遊戲，透過方向鍵操作上下左右，將火箭降落到另一個平台上
-![2021-10-21 21 57 14](https://user-images.githubusercontent.com/46527458/138292996-c06f8cc4-d084-4c83-9b1f-49e4c157abd5.jpg)
+![2021-10-21 23 10 38](https://user-images.githubusercontent.com/46527458/138306457-b9d651ef-1abd-480b-b7c3-d6b6ef588d05.jpg)
+
+![2021-10-21 23 10 46](https://user-images.githubusercontent.com/46527458/138306477-f056895c-2672-4506-9033-fea1ed174d35.jpg)

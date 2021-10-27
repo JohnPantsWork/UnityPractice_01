@@ -1,4 +1,4 @@
-# UnityPractice_01
+# UnityPractice_01_buzzwire
 Udemy course practice project.
 
 簡單的移動方塊，閃躲碰撞物抵達終點的遊戲
